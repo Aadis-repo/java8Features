@@ -1,0 +1,21 @@
+
+m
+java:S1192"KDefine a constant instead of duplicating this literal "9987481441" 4 times.(÷ú‹ÿÿÿÿÿ8¿³€«2
+m
+java:S1192"KDefine a constant instead of duplicating this literal "8987481441" 3 times.(ƒÿäÙûÿÿÿÿ8À³€«2
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿÷Ìüÿÿÿÿ8À³€«2
+L	java:S106
+"+Replace this use of System.out by a logger.(—÷ş“úÿÿÿÿ8Ç³€«2
+L	java:S106"+Replace this use of System.out by a logger.(÷ú‹ÿÿÿÿÿ8Ç³€«2
+L	java:S106"+Replace this use of System.out by a logger.(ƒÿäÙûÿÿÿÿ8Ç³€«2
+L	java:S106"+Replace this use of System.out by a logger.(ÃúàÕÿÿÿÿÿ8È³€«2
+L	java:S106"+Replace this use of System.out by a logger.(¤úã‰ÿÿÿÿÿ8È³€«2
+L	java:S106"+Replace this use of System.out by a logger.(şõòïşÿÿÿÿ8È³€«2
+G	java:S106"+Replace this use of System.out by a logger.(µõú8È³€«2
+L	java:S106"+Replace this use of System.out by a logger.(úÚ×ûøÿÿÿÿ8È³€«2
+L	java:S106"+Replace this use of System.out by a logger.(Ò¬÷œıÿÿÿÿ8É³€«2
+L	java:S106"+Replace this use of System.out by a logger.(¢ÒŞüúÿÿÿÿ8É³€«2
+G	java:S106"+Replace this use of System.out by a logger.(€ËÖİ8êÓ´€«2
+G	java:S106"+Replace this use of System.out by a logger.(íí¬‚8ëÓ´€«2
+_
+java:S1128"BRemove this unused import 'jdk.jshell.spi.SPIResolutionException'.(¶°õî8Ì³€«2

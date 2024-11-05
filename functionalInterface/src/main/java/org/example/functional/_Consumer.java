@@ -7,6 +7,7 @@ import java.util.function.Consumer;
 public class _Consumer {
     public static void main(String[] args) {
         greetCustomer(new Customer("aditya","91234567890"));
+        // Consumer uses accept() to call the lambda expression
         greetCustomerConsumer.accept(new Customer("aditya","91234567890"));
         greetCustomerV2Consumer.accept(new Customer("aditya","91234567890"),false);
     }

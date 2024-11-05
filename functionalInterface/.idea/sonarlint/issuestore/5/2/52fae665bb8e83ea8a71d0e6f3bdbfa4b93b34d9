@@ -1,0 +1,12 @@
+
+y
+java:S1192"\Define a constant instead of duplicating this literal "jdbc://localhost:5432/users" 3 times.(èúŒ¹8°´å€«2
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ĞœŞ8°´å€«2
+L	java:S106"+Replace this use of System.out by a logger.(ùÄ™–ıÿÿÿÿ8¸´å€«2
+L	java:S106	"+Replace this use of System.out by a logger.(Úª€èùÿÿÿÿ8¹´å€«2
+G	java:S106
+"+Replace this use of System.out by a logger.(©´î8¹´å€«2
+L	java:S106"+Replace this use of System.out by a logger.(ô×•Şÿÿÿÿÿ8¹´å€«2
+G	java:S106"+Replace this use of System.out by a logger.(©ª–°8º´å€«2
+V
+java:S3400"9Remove this method and declare a constant for this value.(èúŒ¹8º´å€«2

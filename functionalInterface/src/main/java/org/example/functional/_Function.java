@@ -9,6 +9,7 @@ public class _Function {
         int increment = incrementByOne(1);
         System.out.println(increment);
 
+        // Function use apply() to call the lambda expression
         int incrementFromFunction = incrementByOneFunction.apply(1);
         System.out.println(incrementFromFunction);
 

@@ -5,3 +5,15 @@ S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
 ^
 .src/main/java/org/example/imperative/Main.java,a\5\a52fb0351c19772caa3d990d69772402b1584fc1
+c
+3src/main/java/org/example/functional/_Consumer.java,6\c\6c7f7ff0723a8e4f5be9c16fc78e7599827cca98
+c
+3src/main/java/org/example/functional/_Function.java,2\3\2347b8e3cf35bcb3ae8b4e705c319c4a4140ac81
+d
+4src/main/java/org/example/functional/_Predicate.java,9\5\951d135300039c559723d9bc0b3d90dc3ca447d6
+c
+3src/main/java/org/example/functional/_Supplier.java,5\2\52fae665bb8e83ea8a71d0e6f3bdbfa4b93b34d9
+V
+&src/main/java/org/example/streams.java,e\8\e88b664fa23fe7ccfa4abac0d5d9f113d9ebb9cf
+[
++src/main/java/org/example/streams/Main.java,8\f\8f4c526698ddf16ddb42c3d0e6934e83d6e9c887
