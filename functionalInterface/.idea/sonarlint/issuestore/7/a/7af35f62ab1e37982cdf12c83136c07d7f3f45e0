@@ -1,0 +1,21 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "stream1".(îÂ«À8‘¯ä‘¶2
+]
+java:S1854"@Remove this useless assignment to local variable "stringStream".(ïžâÛ8‘¯ä‘¶2
+W
+java:S1854":Remove this useless assignment to local variable "stream".(›É–ë8‘¯ä‘¶2
+Y
+java:S1854"7Remove this useless assignment to local variable "arr".(€êÆÃúÿÿÿÿ8’¯ä‘¶2
+J
+java:S1481"(Remove this unused "arr" local variable.(€êÆÃúÿÿÿÿ8“¯ä‘¶2
+]	java:S125"<This block of commented-out lines of code should be removed.(®Ñšÿÿÿÿÿ8“¯ä‘¶2
+H
+java:S1481"+Remove this unused "stream" local variable.(›É–ë8”¯ä‘¶2
+N
+java:S1481"1Remove this unused "stringStream" local variable.(ïžâÛ8•¯ä‘¶2
+I
+java:S1481",Remove this unused "stream1" local variable.(îÂ«À8–¯ä‘¶2
+G	java:S106"+Replace this use of System.out by a logger.(ì›¸Ç8ÎËÊ”·2
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8ÎËÊ”·2

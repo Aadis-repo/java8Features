@@ -1,3 +1,19 @@
 
-ž
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8Íèú€«2
+W
+java:S1854":Remove this useless assignment to local variable "stream".(›É–ë8ñ•£‘¶2
+Y
+java:S1854"7Remove this useless assignment to local variable "arr".(€êÆÃúÿÿÿÿ8Ñ®Ô‹»2
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¬ñã·ûÿÿÿÿ8ö•£‘¶2
+L	java:S106"+Replace this use of System.out by a logger.(º ©œÿÿÿÿÿ8ø•£‘¶2
+G	java:S106"+Replace this use of System.out by a logger.(Â»õ”8ù•£‘¶2
+t
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ÙÞÍíüÿÿÿÿ8ù•£‘¶2
+G	java:S106"+Replace this use of System.out by a logger.(äâàé8û•£‘¶2
+J
+java:S1481"(Remove this unused "arr" local variable.(€êÆÃúÿÿÿÿ8Ø®Ô‹»2
+W	java:S125"<This block of commented-out lines of code should be removed.(ÍŸá8Ø®Ô‹»2
+H
+java:S1481"+Remove this unused "stream" local variable.(›É–ë8ý•£‘¶2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ø®Ô‹»2

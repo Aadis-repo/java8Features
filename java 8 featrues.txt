@@ -1,0 +1,5 @@
+1. Functional interfaces
+2. java streams and lambda
+3. optional
+4. records in java
+5. 

@@ -13,7 +13,15 @@ d
 4src/main/java/org/example/functional/_Predicate.java,9\5\951d135300039c559723d9bc0b3d90dc3ca447d6
 c
 3src/main/java/org/example/functional/_Supplier.java,5\2\52fae665bb8e83ea8a71d0e6f3bdbfa4b93b34d9
-V
-&src/main/java/org/example/streams.java,e\8\e88b664fa23fe7ccfa4abac0d5d9f113d9ebb9cf
 [
 +src/main/java/org/example/streams/Main.java,8\f\8f4c526698ddf16ddb42c3d0e6934e83d6e9c887
+c
+3src/main/java/org/example/streams/StreamObject.java,7\a\7af35f62ab1e37982cdf12c83136c07d7f3f45e0
+d
+4src/main/java/org/example/streams/StreamMethods.java,8\b\8bf60698994ae0c47848f9a75b4539bd8597ba08
+b
+2src/main/java/org/example/mutlithreading/Main.java,8\e\8e88f3437dd812361c0df208681c413189fa3259
+c
+3src/main/java/org/example/mutlithreading/World.java,d\1\d1311a12e540c716f8405b0b0362ad190c475a51
+f
+6src/main/java/org/example/mutlithreading/MyThread.java,2\7\27a6fe100aabea7eea5fd2b6dfaecc2e56482f1d
