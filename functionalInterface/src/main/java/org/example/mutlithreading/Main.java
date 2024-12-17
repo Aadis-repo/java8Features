@@ -9,7 +9,7 @@ public class Main {
 //        System.out.println("hello");
 //        }
 
-        MyThread t1 = new MyThread();
+        MyThread t1 = new MyThread("Hero-1");
         System.out.println(t1.getState());
         t1.start();
         System.out.println(t1.getState());
@@ -17,5 +17,8 @@ public class Main {
         System.out.println(t1.getState());
         t1.join();
         System.out.println(t1.getState());
+        MyRun run = new MyRun();
+        Thread t3 = new Thread(run,"Aditya");
+        t3.start();
     }
 }
